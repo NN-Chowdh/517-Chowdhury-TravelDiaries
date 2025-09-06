@@ -17,30 +17,58 @@ Here’s a peek at what I saw, ate, and loved.
 ## My NYC Highlights (with Proof )  
 
 - **Brooklyn Bridge Vibes**: The view was insane—boats, water, skyline, and me trying not to trip while taking pictures.  
+
 <p align="center">
   <img src="images/BrooklynBridge.jpeg" alt="Brooklyn Bridge" width="300"/>
 </p>
 
 - **Central Park Moments**: Street performers everywhere. Saw a guy painting the subway on canvas—NYC energy in a nutshell.  
-![](images/CentralPark_NYC.jpeg)  
+
+<p align="center">
+  <img src="images/CentralPark_NYC.jpeg" alt="Central Park" width="300"/>
+</p> 
 
 - **Hudson Yards Color Explosion**: Art, murals, shiny glass buildings… it’s like the future but with rainbow walls.  
-![](images/HudsonRiver.jpeg)  
+
+<p align="center">
+  <img src="images/HudsonRiver.jpeg" alt="Hudson Yards" width="300"/>
+</p>  
 
 - **NYC After Dark**: Radio City glowing neon and Times Square being, well, Times Square. Crowded but magical.  
-![](images/NightAtNYC.jpeg)  
-![](images/TimesSquare.jpeg)  
+
+<p align="center">
+  <img src="images/NightAtNYC.jpeg" alt="Radio City at Night" width="300"/>
+</p> 
+
+<p align="center">
+  <img src="images/TimesSquare.jpeg" alt="Times Square" width="300"/>
+</p> 
 
 - **Street Art Madness**: The walls here talk. Seriously. Murals everywhere—some fun, some powerful.  
-![](images/StreetArt.jpeg)  
-![](images/StreetArt2.jpeg)  
+
+<p align="center">
+  <img src="images/StreetArt.jpeg" alt="Street Art 1" width="300"/>
+</p>
+
+<p align="center">
+  <img src="images/StreetArt2.jpeg" alt="Street Art 2" width="300"/>
+</p>
 
 - **Music in the Air**: I stumbled into this guitarist in Central Park. He wasn’t famous, but the music made the moment unforgettable.  
-![](images/StreetMusic.jpeg)  
+
+<p align="center">
+  <img src="images/StreetMusic.jpeg" alt="Street Music" width="300"/>
+</p>  
 
 - **Food & Street Vibes**: Picture this—fairy lights, long wooden tables, tacos in one hand, pizza slice in the other. NYC food streets are basically a party.  
-![](images/TravelAndFood.jpeg)  
-![](images/TravelandFood2.jpeg)  
+
+<p align="center">
+  <img src="images/TravelAndFood.jpeg" alt="Street Food 1" width="300"/>
+</p>
+
+<p align="center">
+  <img src="images/TravelandFood2.jpeg" alt="Street Food 2" width="300"/>
+</p>  
 
 ---
 
