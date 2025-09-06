@@ -17,7 +17,7 @@ Here’s a peek at what I saw, ate, and loved.
 ## My NYC Highlights (with Proof )  
 
 - **Brooklyn Bridge Vibes**: The view was insane—boats, water, skyline, and me trying not to trip while taking pictures.  
-<img src="images/BrooklynBridge.jpeg" alt="Brooklyn Bridge" width="400"/>
+ <img src="images/BrooklynBridge.jpeg" alt="Brooklyn Bridge" width="300"/>
 
 - **Central Park Moments**: Street performers everywhere. Saw a guy painting the subway on canvas—NYC energy in a nutshell.  
 ![](images/CentralPark_NYC.jpeg)  
