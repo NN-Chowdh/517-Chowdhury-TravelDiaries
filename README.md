@@ -63,7 +63,7 @@ Here’s a peek at what I saw, ate, and loved.
 - **Food & Street Vibes**: Picture this—fairy lights, long wooden tables, tacos in one hand, pizza slice in the other. NYC food streets are basically a party.  
 
 <p align="center">
-  <img src="images/TravelAndFood.jpeg" alt="Street Food 1" width="300"/>
+  <img src="images/TravelandFood.jpeg" alt="Street Food 1" width="300"/>
 </p>
 
 <p align="center">
